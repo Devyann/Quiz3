@@ -1,29 +1,16 @@
 # quiz3
 
-## Project setup
-```
-npm install
-```
+On continue la découverte de Vue.js avec l'amélioration du Quiz développé précédement.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Cette fois on ajoute des catégories au Quiz en utilisant Vue Router.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Le Json doit être géré par <a href="https://github.com/typicode/json-server">json-server</a>, installer par : npm install -g json-server
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Les dépendances :
+<ul>
+	<li>Axios</li>
+	<li>Bootstrap-vue</li>
+	<li>Vue</li>
+	<li>Vue-router</li>
+	<li>Vuex</li>
+</ul>
